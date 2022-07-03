@@ -1,2 +1,2 @@
 # haskell
-HakerRank Challenge
+Captain prime haskell challenge
