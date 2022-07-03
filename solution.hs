@@ -1,6 +1,6 @@
 -- Enter your code here. Read input from STDIN. Print output to STDOUT
 -- Programmed By Fayssal Chokri
--- MIT Licence
+-- MIT Licence 2022
 module Main where
 
 import Control.Monad (replicateM)
