@@ -1,2 +1,2 @@
 # haskell
-HakerRank Challeng
+HakerRank Challenge
